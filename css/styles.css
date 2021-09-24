@@ -4610,13 +4610,13 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #f4623a;
+  color: #f5da55;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
 .page-link:hover {
   z-index: 2;
-  color: #d6370c;
+  color: #f5da55;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -4639,8 +4639,8 @@ input[type=button].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #f5da55;
+  border-color: #f5da55;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -4716,7 +4716,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #f5da55;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -4995,7 +4995,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #f4623a;
+  background-color: #f5da55;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5076,8 +5076,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #f5da55;
+  border-color: #f5da55;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -6114,7 +6114,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #f5da55 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6242,7 +6242,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #f4623a !important;
+  border-color: #f5da55 !important;
 }
 
 .border-secondary {
@@ -9813,7 +9813,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #f5da55 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10024,7 +10024,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #f5da55;
 }
 
 hr.light {
@@ -10066,10 +10066,10 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #f5da55;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #f5da55 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
